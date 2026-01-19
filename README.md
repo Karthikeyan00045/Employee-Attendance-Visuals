@@ -30,6 +30,7 @@ This project analyzes absenteeism data by cleaning raw datasets using Python and
 - HR analytics and workforce management
 - Freelance dashboard portfolio
 - Data analysis and visualization learning resource
+- ![Dashboard Preview] (dashboard.png)
 
 🙌 Author
 **Karthikeyan** — Data analyst and mentor, focused on transforming raw datasets into actionable insights through Python and Tableau.
