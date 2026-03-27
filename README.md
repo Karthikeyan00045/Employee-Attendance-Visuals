@@ -34,3 +34,8 @@ This project analyzes absenteeism data by cleaning raw datasets using Python and
 
 🙌 Author
 **Karthikeyan** — Data analyst and mentor, focused on transforming raw datasets into actionable insights through Python and Tableau.
+
+## 📊 Work With Me
+I design recruiter‑ready Tableau dashboards with clear storytelling, annotations, and polished visuals.  
+👉 [Hire me on Fiverr](https://www.fiverr.com/s/DBv3w3V)
+
